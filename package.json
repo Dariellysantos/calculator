@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dariellysantos/calculator/issues"
   },
-  "homepage": "https://github.com/Dariellysantos/calculator#readme"
+  "homepage": "https://github.com/Dariellysantos/calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
